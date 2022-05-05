@@ -30,11 +30,5 @@ cnx = ftplib.FTP("ftp.example.com") # Sensitive
 import smtplib
 smtp = smtplib.SMTP("smtp.example.com", port=587) # Sensitive
 
-num1 = 1
-num2 = 10
-
-num2 =- num1
-num2 =+ num1
-
 if num1 <> num2:
     print("not equal")
