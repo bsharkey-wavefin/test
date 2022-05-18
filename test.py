@@ -41,3 +41,6 @@ if num1 <> num2:
 
 username = "user1"
 password = "password123"
+
+num3 =- num4
+num3 =+ num4
