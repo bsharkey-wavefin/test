@@ -39,3 +39,8 @@ num2 =+ num1
 if num1 <> num2:
     print("not equal")
 
+username = "user1"
+password = "password123"
+
+num3 =- num4
+num3 =+ num4
